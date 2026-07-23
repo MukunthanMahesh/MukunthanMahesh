@@ -4,4 +4,4 @@ I'm a Software Developer Intern at the <a href="https://cac.queensu.ca/">Queen's
 
 My day-to-day work revolves around building software and machine learning models for research labs, the healthcare industry, and startups in the Frontenac County. 
 
-You can reach me at: mukunthamahesh [at] gmail [dot] com
+Inquiries: mukunthamahesh [at] gmail [dot] com
