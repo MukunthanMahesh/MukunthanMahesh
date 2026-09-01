@@ -2,6 +2,6 @@
 
 I'm a Software Developer Intern at the <a href="https://cac.queensu.ca/">Centre for Advanced Computing</a> in Kingston, ON.   <img src="https://res.cloudinary.com/dybpk5wot/image/upload/v1785511894/float-loop_sdaoul.gif" width="22" height="22">
 
-My day-to-day work revolves around building software and machine learning models for research labs, the healthcare industry, and startups in the Frontenac County. 
+My day-to-day work revolves around building software and machine learning models for research labs, the healthcare industry, and startups in Eastern Ontario
 
 Inquiries: mukunthamahesh [at] gmail [dot] com
