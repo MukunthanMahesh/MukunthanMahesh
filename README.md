@@ -2,6 +2,6 @@
 
 I'm a Software Developer Intern at the <a href="https://cac.queensu.ca/">Centre for Advanced Computing </a> (@ Queen's University) in Kingston, ON.   <img src="https://res.cloudinary.com/dybpk5wot/image/upload/v1785511894/float-loop_sdaoul.gif" width="22" height="22">
 
-My day-to-day work revolves around building software and machine learning models for research labs, the healthcare industry, and startups.
+My day-to-day work revolves around building software and machine learning models for research labs, the healthcare industry, and various startups.
 
 Inquiries: mukunthamahesh [at] gmail [dot] com
